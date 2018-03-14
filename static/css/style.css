@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+div#correct{
+    background-color:green;
+
+    width: 25%;
+    height: 25%;
+    margin:auto;
+
+
+}
+div#high{
+    text-align:center;
+    background-color:red;
+  
+    width: 25%;
+    height: 25%;
+    margin:auto;
+
+
+}
+div#low{
+    text-align:center;
+    background-color:red;
+    width: 25%;
+    height: 25%;
+    margin:auto;
+
+}
